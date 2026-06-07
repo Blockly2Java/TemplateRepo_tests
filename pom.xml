@@ -21,8 +21,8 @@
   <packaging>jar</packaging>
   <licenses>
     <license>
-      <name>CC BY 4.0</name>
-      <url>https://creativecommons.org/licenses/by/4.0/</url>
+      <name>MIT</name>
+      <url>https://opensource.org/license/mit/</url>
     </license>
   </licenses>
 
