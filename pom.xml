@@ -5,10 +5,10 @@
 
   <!-- MODIFY FOR YOUR EXERCISE -->
   <groupId>de.blockly2java.exercises</groupId>
-  <artifactId>template_tests</artifactId>
+  <artifactId>templaterepo_tests</artifactId>
 
-  <name>Blockly2Java Exercise 'Template' Tests</name>
-  <description>Contains test cases for the Template exercise</description>
+  <name>Blockly2Java Exercise 'TemplateRepo' Tests</name>
+  <description>Contains test cases for the TemplateRepo exercise</description>
   <url>https://github.com/Blockly2Java/Template_tests</url>
   <scm>
     <connection>scm:git:git://github.com/Blockly2Java/Template_tests.git</connection>
